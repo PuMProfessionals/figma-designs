@@ -4,6 +4,9 @@ the one-stop shop for all figma designs
 ```home```:
 https://www.figma.com/file/x9LvW1mjh1DMMfdfSakeSb/PuMP-Homepage?node-id=1%3A3
 
+```about```:
+https://www.figma.com/file/qgW7aJeV4SCtFogyMkkPX8/PuMP-About-Us-Page?node-id=1%3A2
+
 ```events & uas & beginning the blog```:
 https://www.figma.com/file/JGCiSVkm1Lhr9fXEvqWXqC/PuMP-Student-Resources-Page?node-id=0%3A1
 
