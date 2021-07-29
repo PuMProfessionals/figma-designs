@@ -18,3 +18,6 @@ https://www.figma.com/file/Q6yvatd2yUqvXqS1PO3Iyo/PuMP-Digest?node-id=0%3A1
 
 ```direct```:
 https://www.figma.com/file/fj6Oxp1IHLN55IZR9V2keV/PuMP-Direct?node-id=0%3A1
+
+```partners```:
+https://www.figma.com/file/nhLS8yXIRd0r4Dv56ykdtI/PuMP-Partners-Page?node-id=2%3A127
