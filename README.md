@@ -16,5 +16,5 @@ https://www.figma.com/file/JGCiSVkm1Lhr9fXEvqWXqC/PuMP-Student-Resources-Page?no
 ```blog (digest)```:
 https://www.figma.com/file/Q6yvatd2yUqvXqS1PO3Iyo/PuMP-Digest?node-id=0%3A1
 
-```blog (direct)```:
+```direct```:
 https://www.figma.com/file/fj6Oxp1IHLN55IZR9V2keV/PuMP-Direct?node-id=0%3A1
