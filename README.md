@@ -21,3 +21,6 @@ https://www.figma.com/file/fj6Oxp1IHLN55IZR9V2keV/PuMP-Direct?node-id=0%3A1
 
 ```partners```:
 https://www.figma.com/file/nhLS8yXIRd0r4Dv56ykdtI/PuMP-Partners-Page?node-id=2%3A127
+
+```contact```:
+https://www.figma.com/file/FeDUn9CliTxWYtVCFzCJdn/PuMP-Contact-Us?node-id=0%3A1
